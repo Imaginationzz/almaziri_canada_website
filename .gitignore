@@ -1,0 +1,4 @@
+maziri_venv/
+__pycache__/
+*.pyc
+data/

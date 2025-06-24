@@ -1,0 +1,26 @@
+
+/* General page styling */
+body {
+    background-color: #f4f4f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Book box styling */
+.book-box {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+/* Book title styling */
+.book-box h2 {
+    color: #2c3e50;
+}
+
+/* Author text */
+.book-box p {
+    margin: 5px 0;
+}
